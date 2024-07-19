@@ -1,7 +1,7 @@
 # myGemini
 Running the Google Gemini on local machine
 
-steps:
+Steps:
 
 1. Install Anaconda
 2. Open terminal and create your conda environment with python version 3.9: conda create -n myenv python=3.9
@@ -18,5 +18,6 @@ steps:
 5. Install all requirements from the .txt file: pip install -r requirements.txt
 
 How to deactivate conda environment: conda deactivate
+
 How to list all the existing conda environments: conda env list
 
