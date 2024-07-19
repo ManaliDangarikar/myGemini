@@ -21,7 +21,7 @@ def get_answer():
 
 # Create the main window
 root = tk.Tk()
-root.title("Gemini API Prompt Window")
+root.title("Ask Me Anything!")
 
 # Create a text entry for the question
 question_label = tk.Label(root, text="Enter your question:")
